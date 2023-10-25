@@ -1,0 +1,5 @@
+
+w	java:S116"VRename this field "KAFKA_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û£íÿÿÿÿÿ8ˆƒ™µ´1
+C
+java:S1170"!Make this final field static too.(û£íÿÿÿÿÿ8‰ƒ™µ´1
+L	java:S106#"+Replace this use of System.out by a logger.(¢£¹¢úÿÿÿÿ8ƒ™µ´1

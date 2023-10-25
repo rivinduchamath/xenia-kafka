@@ -1,0 +1,11 @@
+
+X	java:S125*"<This block of commented-out lines of code should be removed.(ş¸‘Ó8Ÿéä¸´1
+]	java:S1254"<This block of commented-out lines of code should be removed.(˜–ÁÄúÿÿÿÿ8´ì¼¹´1
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8´ì¼¹´1
+{
+java:S1128"YRemove this unused import 'org.springframework.boot.autoconfigure.kafka.KafkaProperties'.(´ÖĞÄùÿÿÿÿ8µì¼¹´1
+o
+java:S1128"SRemove this unused import 'org.springframework.kafka.support.serializer.JsonSerde'.(†—«;8µì¼¹´1
+]
+java:S1128"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ğ‘8µì¼¹´1

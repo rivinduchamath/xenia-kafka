@@ -1,0 +1,26 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8υβά¶΄1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8υβά¶΄1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8φβά¶΄1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8φβά¶΄1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8φβά¶΄1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Φ†…ώÿÿÿÿ8φβά¶΄1
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ί•“8φβά¶΄1
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όυωÿÿÿÿ8φβά¶΄1
+r	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ψν€¦ώÿÿÿÿ8φβά¶΄1
+l	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒΜd8φβά¶΄1
+m	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Δ”ό8χβά¶΄1
+m	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(το8χβά¶΄1
+7
+java:S1700"Rename field "domain"(ΚΤ‘κώÿÿÿÿ8ψβά¶΄1
+q	java:S116"VRename this field "create_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Έ²‡U8‡γά¶΄1
+q	java:S116	"VRename this field "update_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ί»<8γά¶΄1
+h	java:S116"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ββ§8γά¶΄1
+h	java:S116"MRename this field "NS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Μ8γά¶΄1
+l	java:S116"PRename this field "CNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊρΦΊ8γά¶΄1
+n	java:S116"MRename this field "MX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ςΰψÿÿÿÿ8γά¶΄1
+o	java:S116"NRename this field "TXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª„„¨ύÿÿÿÿ8γά¶΄1
+j	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ίϊΓ8γά¶΄1
+j	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ί•“8γά¶΄1
+j	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Λ±τ8γά¶΄1
+o	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όυωÿÿÿÿ8γά¶΄1

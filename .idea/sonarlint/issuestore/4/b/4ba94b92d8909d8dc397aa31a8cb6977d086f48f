@@ -1,0 +1,10 @@
+
+7
+java:S1700"Rename field "domain"(ÊÔ‘êşÿÿÿÿ8¹Öµ´1
+q	java:S116"VRename this field "create_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸²‡U8ËÖµ´1
+q	java:S116"VRename this field "update_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ß»<8ËÖµ´1
+h	java:S116"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ââ§8ËÖµ´1
+h	java:S116"MRename this field "NS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ì8ËÖµ´1
+l	java:S116"PRename this field "CNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñÖº8ËÖµ´1
+n	java:S116"MRename this field "MX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶òàøÿÿÿÿ8ÌÖµ´1
+o	java:S116"NRename this field "TXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª„„¨ıÿÿÿÿ8ÌÖµ´1

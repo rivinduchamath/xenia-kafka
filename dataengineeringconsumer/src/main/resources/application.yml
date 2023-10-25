@@ -1,0 +1,23 @@
+#spring.cloud.stream:
+#  function:
+#    definition: domainService
+#  bindings:
+#    domainService-in-0:
+#      destination: activewebdomains
+#  kafka:
+#    bindings:
+#      domainService-in-0:
+#        consumer:
+#          configuration:
+#            value:
+#              deserializer: org.springframework.kafka.support.serializer.StringDeserializer
+#    binder:
+#      brokers:
+##        - localhost:9091
+#        - localhost:9092
+#spring:
+#  kafka:
+#    consumer:
+#      properties:
+#        spring.json.trusted.packages: [com.cloudofgoods.cog.dataengineeringprocessing.model.Domain,java.util, java.lang]
+#
